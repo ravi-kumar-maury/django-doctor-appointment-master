@@ -7,12 +7,13 @@ Please run below commands to start django Server:
 ### pip install -r requirements.txt
 ### python3 manage.py makemigrations
 ### python3 manage.py migrate
+### python manage.py runserver
 
 check the running server at : http://127.0.0.1:8000/
 
 create a superuser which will able to acess /admin route
 
-###python3 manage.py createsuperuser
+### python3 manage.py createsuperuser
 
 ## Features
 1. anyone can check available doctor's either by location or department on home page
