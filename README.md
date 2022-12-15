@@ -8,7 +8,10 @@ Please run below commands to start django Server:
 ### python3 manage.py makemigrations
 ### python3 manage.py migrate
 
+check the running server at : http://127.0.0.1:8000/
+
 create a superuser which will able to acess /admin route
+
 ###python3 manage.py createsuperuser
 
 ## Features
